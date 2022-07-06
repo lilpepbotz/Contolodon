@@ -57,7 +57,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Donate
-* [`Saweria`
+* [`Saweria`](https://saweria.co/nanang13) 
 
 
 ## Thanks To
