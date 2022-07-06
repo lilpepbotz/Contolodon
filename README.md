@@ -56,6 +56,10 @@ Editing Number Owner & session name in [`config.js`](https://github.com/Xavior88
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
+## Donate
+* [`Saweria`
+
+
 ## Thanks To
 * [`Dika Ardnt`](https://github.com/DikaArdnt)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
