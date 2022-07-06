@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://telegra.ph/file/4fe574569447aa1e43411.jpg" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/Xavior-07-06.jpg" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## UNTUK PENGGUNA WINDOWS/RDP
