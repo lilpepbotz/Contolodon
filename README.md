@@ -10,8 +10,8 @@
 
 
 ```bash
-git clone https://github.com/YosaArdn/Zxyn-V1
-cd Zxyn-V1
+git clone https://github.com/Xavior88/Recode-V1.git
+cd Recode-V1
 npm install
 ```
 
@@ -31,8 +31,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/YosaArdn/Zxyn-V1
-cd  Zxyn-V1
+git clone https://github.com/Xavior88/Recode-V1.git
+cd Recode-V1
 npm install
 ```
 
@@ -67,7 +67,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+* [`Xavior`](https://github.com/Xavior88)
 
 ```Thanks to all who have participated in the development of this script```
 
