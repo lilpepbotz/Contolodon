@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://drive.google.com/file/d/137ZbgHR3_6WCPDb3EtMpnpEmhOflphcR/view?usp=drivesdk" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/065ea6cc5520f5765c963.jpg" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## UNTUK PENGGUNA WINDOWS/RDP
