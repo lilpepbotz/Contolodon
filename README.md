@@ -10,8 +10,8 @@
 
 
 ```bash
-git clone https://github.com/Xavior88/Recode-V1.git
-cd Recode-V1
+git clone https://github.com/Xavior88/Xavior-MD.git
+cd Xavior-MD
 npm install
 ```
 
@@ -31,8 +31,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Xavior88/Recode-V1.git
-cd Recode-V1
+git clone https://github.com/Xavior88/Xavior-MD.git
+cd Xavior-MD
 npm install
 ```
 
@@ -52,7 +52,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/Xavior88/Recode-V1/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/Xavior88/Xavior-MD/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
